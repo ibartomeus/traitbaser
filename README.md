@@ -1,5 +1,7 @@
 # traitbaser
 
+You are probably looking for metadevpro/traitbaser This fork is depreciated.
+
 R Package for accesing the API of [Traitbase](https://www.traitbase.info) project.
 
 [![Build Status](https://travis-ci.org/metadevpro/traitbaser.svg?branch=master)](https://travis-ci.org/metadevpro/traitbaser)
